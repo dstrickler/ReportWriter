@@ -37,6 +37,5 @@ class Report extends Component implements HasForms, HasTable
     public function render()
     {
         return view('livewire.report');
-        // return view('welcome');
     }
 }
